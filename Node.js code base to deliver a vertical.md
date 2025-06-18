@@ -2,7 +2,7 @@
 
 # provide a working Node.js code base to deliver an interesting vertical
 
-Of course. Here is a working Node.js codebase for a generative AI application in the education vertical: a **Personalized AI Tutor**.
+Here is a working Node.js codebase for a generative AI application in the education vertical: a **Personalized AI Tutor**.
 
 This command-line application acts as an interactive homework helper. It uses the Google Generative AI SDK to help a student understand a topic without simply giving them the answer. This is accomplished by providing the AI model with a specific "personality" or system instruction[^1].
 
