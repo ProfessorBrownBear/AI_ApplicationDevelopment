@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # provide a working Node.js code base to deliver an interesting vertical
 
 Here is a working Node.js codebase for a generative AI application in the education vertical: a **Personalized AI Tutor**.
