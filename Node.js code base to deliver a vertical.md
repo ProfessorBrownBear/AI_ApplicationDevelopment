@@ -1,4 +1,4 @@
-# provide a working Node.js code base to deliver an interesting vertical
+# Node.js code base to deliver an interactive AI Tutor
 
 Here is a working Node.js codebase for a generative AI application in the education vertical: a **Personalized AI Tutor**.
 
